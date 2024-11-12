@@ -2,7 +2,7 @@ import { useState } from "react"
 import { assets, projectsData } from "../assets/assets"
 
 const Projects = () => {
-
+    //////////////////////////////////////////////////////////////////////
 
     const [currentIndex, setCurrentIndex] = useState(0);
     const [cartToShow, setCartToShow] = useState(1);
